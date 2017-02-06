@@ -2,7 +2,7 @@ import {
   inject,
   ComponentFixture,
   TestBed
-} from '@angular/core/testing';
+} from '@angular/core/testing'; 
 import * as moment from 'moment';
 import { expect } from 'chai';
 import {
