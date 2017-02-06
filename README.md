@@ -8,7 +8,7 @@
 - [About](#about)
 - [Getting started](#getting-started)
 - [Documentation](#documentation)
-- [Development](#development)
+- [Development](#development) 
 - [License](#licence)
 
 ## About

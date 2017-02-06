@@ -15,7 +15,7 @@ https://mattlewis92.github.io/angular-calendar/docs/components/CalendarDayViewCo
 
 Please note that issues that ignore this template will be closed without notice!
 
--->
+--> 
 
 ### Bug description / Feature request:
 
