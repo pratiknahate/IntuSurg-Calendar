@@ -44,7 +44,7 @@ Then you can use the [`mwl-calendar-month-view`](https://mattlewis92.github.io/a
 
 
 ## Documentation
-To see all available API options see the auto generated [documentation](https://mattlewis92.github.io/angular-calendar/docs/) or you may find it helpful to view the examples on the demo page.
+To see all available API options see the auto generated [documentation](https://pratiknahate.github.io/IntuSurg-Calendar/) or you may find it helpful to view the examples on the demo page.
 
 ## Development
 
