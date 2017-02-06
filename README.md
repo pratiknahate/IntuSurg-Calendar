@@ -40,7 +40,7 @@ import { CalendarModule } from 'angular-calendar';
 export class MyModule {}
 ```
 
-Then you can use the [`mwl-calendar-month-view`](https://pratiknahate.github.io/components/CalendarMonthViewComponent.html), [`mwl-calendar-week-view`](https://pratiknahate.github.io/components/CalendarWeekViewComponent.html), [`mwl-calendar-day-view`](https://pratiknahate.github.io/components/CalendarDayViewComponent.html) and [`mwl-calendar-header`](https://pratiknahate.github.io/components/CalendarHeaderComponent.html) components in your app. For a full e2e example see the demo([`Demo link here`]).
+Then you can use the [`mwl-calendar-month-view`](https://pratiknahate.github.io/components/CalendarMonthViewComponent.html), [`mwl-calendar-week-view`](https://pratiknahate.github.io/components/CalendarWeekViewComponent.html), [`mwl-calendar-day-view`](https://pratiknahate.github.io/components/CalendarDayViewComponent.html) and [`mwl-calendar-header`](https://pratiknahate.github.io/components/CalendarHeaderComponent.html) components in your app. For a full e2e example see the demo [`Demo link here`].
 
 
 ## Documentation
