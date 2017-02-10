@@ -11,7 +11,7 @@
     "allowSyntheticDefaultImports": true, 
     "baseUrl": ".",
     "paths": {
-      "angular-calendar": ["./src/index"]
+      "IntuSurg-Calendar": ["./src/index"]
     }
   },
   "include": [
